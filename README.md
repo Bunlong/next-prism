@@ -22,9 +22,9 @@ yarn add next-prism
 
 ## 📜 Changelog
 
-Latest version 2.4.0 (2022-11-29):
+Latest version 0.1.0 (2022-12-08):
 
-  * Add SVG
+  * 
 
 Details changes for each release are documented in the [CHANGELOG.md](https://github.com/Bunlong/next-prism/blob/master/CHANGELOG.md).
 

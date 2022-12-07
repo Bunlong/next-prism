@@ -1,0 +1,1 @@
+export { usePrism } from './usePrism';
