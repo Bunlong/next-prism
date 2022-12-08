@@ -1,9 +1,9 @@
 import { usePrism } from 'next-prism'
 
-import 'next-prism/themes/tomorrow'
+import 'next-prism/themes/twilight.css'
 
 export default function Home() {
-  const { Code } = usePrism();
+  const { Code } = usePrism()
 
   return (
     <>
