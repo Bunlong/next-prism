@@ -1,6 +1,6 @@
 {
   "name": "next-prism",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A lightweight, robust, and elegant syntax highlighting component for your next React apps.",
   "author": "Bunlong <bunlong.van@gmail.com>",
   "license": "MIT",
@@ -21,6 +21,7 @@
   ],
   "homepage": "https://github.com/Bunlong/next-prism",
   "main": "dist/next-prism.js",
+  "style": "themes/prism.css",
   "module": "dist/next-prism.es.js",
   "jsnext:main": "dist/next-prism.es.js",
   "types": "dist/next-prism.d.ts",
@@ -73,7 +74,8 @@
     "typescript": "^4.7.2"
   },
   "files": [
-    "dist"
+    "dist",
+    "themes"
   ],
   "dependencies": {
     "prismjs": "^1.29.0"
