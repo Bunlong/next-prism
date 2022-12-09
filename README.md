@@ -58,32 +58,36 @@ export default function Home() {
   <thead>
   <tbody>
     <tr>
-      <td>children</td>
-      <td></td>
-      <td></td>
-      <td>❌</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>code</td>
-      <td>string</td>
+      <td>children || content</td>
+      <td>ReactNode</td>
       <td></td>
       <td>❌</td>
-      <td></td>
+      <td>The content code</td>
     </tr>
     <tr>
       <td>language</td>
       <td>string</td>
       <td></td>
       <td>❌</td>
-      <td></td>
+      <td>The supported language</td>
     </tr>
   </tbody>
 </table>
 
+## Themes
+
+  * coy
+  * dark
+  * funky
+  * okaidia
+  * prism
+  * solarizedlight
+  * tomorrow
+  * twilight
+
 ## 📜 Changelog
 
-Latest version 0.1.0 (2022-12-08):
+Latest version 0.1.0 (2022-12-09):
 
   * Add themes and languages
 
