@@ -85,6 +85,14 @@ export default function App() {
   * tomorrow
   * twilight
 
+## Languages
+
+<table>
+  <tr>
+    <td>Markup - <code>markup</code>, <code>html</code>, <code>xml</code>, <code>svg</code>, <code>mathml</code>, <code>ssml</code>, <code>atom</code>, <code>rss</code></td>
+  </tr>
+<table>
+
 ## 📜 Changelog
 
 Latest version 0.1.0 (2022-12-09):
