@@ -4,7 +4,8 @@ A lightweight, robust, and elegant syntax highlighting component for your next R
 
 ## 🎁 Features
 
-* 
+* Themes
+* Languages
 
 ## 🔧 Install
 
@@ -20,11 +21,71 @@ next-prism is available on yarn as well. It can be installed with the following 
 yarn add next-prism
 ```
 
+## 💡 Usage
+
+```javascript
+import { usePrism } from 'next-prism'
+
+// Import a theme
+import 'next-prism/themes/twilight.css'
+
+export default function Home() {
+  const { Code } = usePrism()
+
+  return (
+    <>
+      <Code language='javascript'>
+      {`<div className="example">
+  {Math.random()}
+</div>`}
+      </Code>
+    </>
+  )
+}
+```
+
+## Props
+
+<table>
+  <thead>
+    <tr>
+      <th>Prop</th>
+      <th>Type</th>
+      <th>Default</th>
+      <th>Require</th>
+      <th>Description</th>
+    </tr>
+  <thead>
+  <tbody>
+    <tr>
+      <td>children</td>
+      <td></td>
+      <td></td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>code</td>
+      <td>string</td>
+      <td></td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>language</td>
+      <td>string</td>
+      <td></td>
+      <td>❌</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 ## 📜 Changelog
 
 Latest version 0.1.0 (2022-12-08):
 
-  * 
+  * Add themes and languages
 
 Details changes for each release are documented in the [CHANGELOG.md](https://github.com/Bunlong/next-prism/blob/master/CHANGELOG.md).
 
