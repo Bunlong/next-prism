@@ -2,19 +2,20 @@ import React from 'react';
 import Prism from 'prismjs';
 
 export interface ICode {
-  children: any;
   language?: string;
+  children?: any;
+  content?: any;
 }
 
 function useCodeComponent() {
-  const CodeComponent = ({ children, language }: ICode) => {
+  const CodeComponent = ({ language, children, content }: ICode) => {
     React.useEffect(() => {
       Prism.highlightAll();
     }, []);
 
     return (
       <pre>
-        <code className={`language-${language}`}>{children}</code>
+        <code className={`language-${language}`}>{children || content}</code>
       </pre>
     );
   };
