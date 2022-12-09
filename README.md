@@ -26,10 +26,10 @@ yarn add next-prism
 ```javascript
 import { usePrism } from 'next-prism'
 
-// Import a theme
+// Import a theme.css
 import 'next-prism/themes/twilight.css'
 
-export default function Home() {
+export default function App() {
   const { Code } = usePrism()
 
   return (
@@ -132,6 +132,7 @@ You maybe interested.
 
 * [React Patterns](https://github.com/reactpatterns/reactpatterns) – React patterns & techniques to use in development for React Developer.
 * [React Papaparse](https://github.com/Bunlong/react-papaparse) – The fastest in-browser CSV (or delimited text) parser for React.
+* [Next QRCode](https://github.com/bunlong/next-qrcode) – React hooks for generating QR code for your next React apps.
 * [Next Share](https://github.com/Bunlong/next-share) – Social media share buttons for your next React apps.
 * [Next Time Ago](https://github.com/Bunlong/next-time-ago) – A lightweight tiny time-ago component for your next React apps.
 
