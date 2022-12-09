@@ -90,7 +90,11 @@ export default function App() {
 <table>
   <tr>
     <td>Markup - <code>markup</code>, <code>html</code>, <code>xml</code>, <code>svg</code>, <code>mathml</code>, <code>ssml</code>, <code>atom</code>, <code>rss</code></td>
-    <td>Git - <code>git</code></td>
+    <td>CSS - <code>css</code></td>
+  </tr>
+  <tr>
+    <td>JavaScript - <code>javascript</code>, <code>js</code></td>
+    <td>C-like - <code>clike</code></td>
   </tr>
 <table>
 
