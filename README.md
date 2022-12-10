@@ -96,6 +96,58 @@ export default function App() {
     <td>JavaScript - <code>javascript</code>, <code>js</code></td>
     <td>C-like - <code>clike</code></td>
   </tr>
+  <tr>
+    <td>ABAP - <code>abap</code></td>
+    <td>ABNF - <code>abnf</code></td>
+  </tr>
+  <tr>
+    <td>ActionScript - <code>actionscript</code></td>
+    <td>Ada - <code>ada</code></td>
+  </tr>
+  <tr>
+    <td>Agda - <code>agda</code></td>
+    <td>AL - <code>al</code></td>
+  </tr>
+  <tr>
+    <td>ANTLR4 - <code>antlr4</code>, <code>g4</code></td>
+    <td>Apache Configuration - <code>apacheconf</code></td>
+  </tr>
+  <tr>
+    <td>Apex - <code>apex</code></td>
+    <td>APL - <code>apl</code></td>
+  </tr>
+  <tr>
+    <td>AppleScript - <code>applescript</code></td>
+    <td>AQL - <code>aql</code></td>
+  </tr>
+  <tr>
+    <td>Arduino - <code>arduino</code>, <code>ino</code></td>
+    <td>ARFF - <code>arff</code></td>
+  </tr>
+  <tr>
+    <td>ARM Assembly - <code>armasm, arm-asm</code></td>
+    <td>Arturo - <code>arturo</code>, <code>art</code></td>
+  </tr>
+  <tr>
+    <td>AsciiDoc - <code>asciidoc</code>, <code>adoc</code></td>
+    <td>ASP.NET (C#) - <code>aspnet</code></td>
+  </tr>
+  <tr>
+    <td>6502 Assembly - <code>asm6502</code></td>
+    <td>Atmel AVR Assembly - <code>asmatmel</code></td>
+  </tr>
+  <tr>
+    <td>AutoHotkey - <code>autohotkey</code></td>
+    <td>AutoIt - <code>autoit</code></td>
+  </tr>
+  <tr>
+    <td>AviSynth - <code>avisynth</code>, <code>avs</code></td>
+    <td>Avro IDL - <code>avro-idl</code>, <code>avdl</code></td>
+  </tr>
+  <tr>
+    <td>AWK - <code>awk</code>, <code>gawk</code></td>
+    <td></td>
+  </tr>
 <table>
 
 ## 📜 Changelog
