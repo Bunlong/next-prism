@@ -340,6 +340,38 @@ export default function App() {
   </tr>
   <tr>
     <td>Io - <code>io</code></td>
+    <td>J - <code>j</code></td>
+  </tr>
+  <tr>
+    <td>Java - <code>java</code></td>
+    <td>JavaDoc - <code>javadoc</code></td>
+  </tr>
+  <tr>
+    <td>JavaDoc-like - <code>javadoclike</code></td>
+    <td>Java stack trace - <code>javastacktrace</code></td>
+  </tr>
+  <tr>
+    <td>Jexl - <code>jexl</code></td>
+    <td>Jolie - <code>jolie</code></td>
+  </tr>
+  <tr>
+    <td>JQ - <code>jq</code></td>
+    <td>JSDoc - <code>jsdoc</code></td>
+  </tr>
+  <tr>
+    <td>JS Extras - <code>js-extras</code></td>
+    <td>JSON - <code>json</code>, <code>webmanifest</code></td>
+  </tr>
+  <tr>
+    <td>JSON5 - <code>json5</code></td>
+    <td>JSONP - <code>jsonp</code></td>
+  </tr>
+  <tr>
+    <td>JS stack trace - <code>jsstacktrace</code></td>
+    <td>JS Templates - <code>js-templates</code></td>
+  </tr>
+  <tr>
+    <td>Julia - <code>julia</code></td>
     <td></td>
   </tr>
 </table>
