@@ -530,6 +530,14 @@ export default function App() {
   </tr>
   <tr>
     <td>Python - <code>python</code>, <code>py</code></td>
+    <td>Q# - <code>qsharp</code>, <code>qs</code></td>
+  </tr>
+  <tr>
+    <td>Q (kdb+ database) - <code>q</code></td>
+    <td>QML - <code>qml</code></td>
+  </tr>
+  <tr>
+    <td>Qore - <code>qore</code></td>
     <td></td>
   </tr>
 </table>
