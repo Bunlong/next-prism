@@ -394,7 +394,27 @@ export default function App() {
   </tr>
   <tr>
     <td>Kusto - <code>kusto</code></td>
-    <td></td>
+    <td>LaTeX - <code>latex</code>, <code>tex</code>, <code>context</code></td>
+  </tr>
+  <tr>
+    <td>Latte - <code>latte</code></td>
+    <td>Less - <code>less</code></td>
+  </tr>
+  <tr>
+    <td>LilyPond - <code>lilypond</code>, <code>ly</code></td>
+    <td>Liquid - <code>liquid</code></td>
+  </tr>
+  <tr>
+    <td>Lisp - <code>lisp</code>, <code>emacs</code>, <code>elisp</code>, <code>emacs-lisp</code></td>
+    <td>LiveScript - <code>livescript</code></td>
+  </tr>
+  <tr>
+    <td>LLVM IR - <code>llvm</code></td>
+    <td>Log file - <code>log</code></td>
+  </tr>
+  <tr>
+    <td>LOLCODE - <code>lolcode</code></td>
+    <td>Lua - <code>lua</code></td>
   </tr>
 </table>
 
