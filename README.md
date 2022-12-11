@@ -176,7 +176,47 @@ export default function App() {
   </tr>
   <tr>
     <td>BSL (1C:Enterprise) - <code>bsl</code>, <code>oscript</code></td>
-    <td></td>
+    <td>C - <code>c</code></td>
+  </tr>
+  <tr>
+    <td>C# - <code>csharp</code>, <code>cs</code>, <code>dotnet</code></td>
+    <td>C++ - <code>cpp</code></td>
+  </tr>
+  <tr>
+    <td>CFScript - <code>cfscript</code>, <code>cfc</code></td>
+    <td>ChaiScript - <code>chaiscript</code></td>
+  </tr>
+  <tr>
+    <td>CIL - <code>cil</code></td>
+    <td>Cilk/C - <code>cilkc</code>, <code>cilk-c</code></td>
+  </tr>
+  <tr>
+    <td>Cilk/C++ - <code>cilkcpp</code>, <code>cilk-cpp</code>, <code>cilk</code></td>
+    <td>Clojure - <code>clojure</code></td>
+  </tr>
+  <tr>
+    <td>CMake - <code>cmake</code></td>
+    <td>COBOL - <code>cobol</code></td>
+  </tr>
+  <tr>
+    <td>CoffeeScript - <code>coffeescript</code>, <code>coffee</code></td>
+    <td>Concurnas - <code>concurnas</code>, <code>conc</code></td>
+  </tr>
+  <tr>
+    <td>Content-Security-Policy - <code>csp</code></td>
+    <td>Cooklang - <code>cooklang</code></td>
+  </tr>
+  <tr>
+    <td>Coq - <code>coq</code></td>
+    <td>Crystal - <code>crystal</code></td>
+  </tr>
+  <tr>
+    <td>CSS Extras - <code>css-extras</code></td>
+    <td>CSV - <code>csv</code></td>
+  </tr>
+  <tr>
+    <td>CUE - <code>cue</code></td>
+    <td>Cypher - <code>cypher</code></td>
   </tr>
 <table>
 
