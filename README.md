@@ -324,6 +324,22 @@ export default function App() {
   </tr>
   <tr>
     <td>HTTP Strict-Transport-Security - <code>hsts</code></td>
+    <td>IchigoJam - <code>ichigojam</code></td>
+  </tr>
+  <tr>
+    <td>Icon - <code>icon</code></td>
+    <td>ICU Message Format - <code>icu-message-format</code></td>
+  </tr>
+  <tr>
+    <td>Idris - <code>idris</code>, <code>idr</code></td>
+    <td>.ignore - <code>ignore</code>, <code>gitignore</code>, <code>hgignore</code>, <code>npmignore</code></td>
+  </tr>
+  <tr>
+    <td>Inform 7 - <code>inform7</code></td>
+    <td>Ini - <code>ini</code></td>
+  </tr>
+  <tr>
+    <td>Io - <code>io</code></td>
     <td></td>
   </tr>
 </table>
