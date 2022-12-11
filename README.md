@@ -538,6 +538,38 @@ export default function App() {
   </tr>
   <tr>
     <td>Qore - <code>qore</code></td>
+    <td>R - <code>r</code></td>
+  </tr>
+  <tr>
+    <td>Racket - <code>racket</code>, <code>rkt</code></td>
+    <td>Razor C# - <code>cshtml</code>, <code>razor</code></td>
+  </tr>
+  <tr>
+    <td>React JSX - <code>jsx</code></td>
+    <td>React TSX - <code>tsx</code></td>
+  </tr>
+  <tr>
+    <td>Reason - <code>reason</code></td>
+    <td>Regex - <code>regex</code></td>
+  </tr>
+  <tr>
+    <td>Rego - <code>rego</code></td>
+    <td>Ren'py - <code>renpy</code>, <code>rpy</code></td>
+  </tr>
+  <tr>
+    <td>ReScript - <code>rescript</code>, <code>res</code></td>
+    <td>reST (reStructuredText) - <code>rest</code></td>
+  </tr>
+  <tr>
+    <td>Rip - <code>rip</code></td>
+    <td>Roboconf - <code>roboconf</code></td>
+  </tr>
+  <tr>
+    <td>Robot Framework - <code>robotframework</code>, <code>robot</code></td>
+    <td>Ruby - <code>ruby</code>, <code>rb</code></td>
+  </tr>
+  <tr>
+    <td>Rust - <code>rust</code></td>
     <td></td>
   </tr>
 </table>
