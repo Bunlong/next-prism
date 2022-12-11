@@ -570,7 +570,55 @@ export default function App() {
   </tr>
   <tr>
     <td>Rust - <code>rust</code></td>
-    <td></td>
+    <td>SAS - <code>sas</code></td>
+  </tr>
+  <tr>
+    <td>Sass (Sass) - <code>sass</code></td>
+    <td>Sass (SCSS) - <code>scss</code></td>
+  </tr>
+  <tr>
+    <td>Scala - <code>scala</code></td>
+    <td>Scheme - <code>scheme</code></td>
+  </tr>
+  <tr>
+    <td>Shell session - <code>shell-session</code>, <code>sh-session</code>, <code>shellsession</code></td>
+    <td>Smali - <code>smali</code></td>
+  </tr>
+  <tr>
+    <td>Smalltalk - <code>smalltalk</code></td>
+    <td>Smarty - <code>smarty</code></td>
+  </tr>
+  <tr>
+    <td>SML - <code>sml</code>, <code>smlnj</code></td>
+    <td>Solidity (Ethereum) - <code>solidity</code>, <code>sol</code></td>
+  </tr>
+  <tr>
+    <td>Solution file - <code>solution-file</code>, <code>sln</code></td>
+    <td>Soy (Closure Template) - <code>soy</code></td>
+  </tr>
+  <tr>
+    <td>SPARQL - <code>sparql</code>, <code>rq</code></td>
+    <td>Splunk SPL - <code>splunk-spl</code></td>
+  </tr>
+  <tr>
+    <td>SQF: Status Quo Function (Arma 3) - <code>sqf</code></td>
+    <td>SQL - <code>sql</code></td>
+  </tr>
+  <tr>
+    <td>Squirrel - <code>squirrel</code></td>
+    <td>Stan - <code>stan</code></td>
+  </tr>
+  <tr>
+    <td>Stata Ado - <code>stata</code></td>
+    <td>Structured Text (IEC 61131-3) - <code>iecst</code></td>
+  </tr>
+  <tr>
+    <td>Stylus - <code>stylus</code></td>
+    <td>SuperCollider - <code>supercollider</code>, <code>sclang</code></td>
+  </tr>
+  <tr>
+    <td>Swift - <code>swift</code></td>
+    <td>Systemd configuration file - <code>systemd</code></td>
   </tr>
 </table>
 
