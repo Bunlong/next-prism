@@ -2,6 +2,8 @@
 
 A lightweight, robust, and elegant syntax highlighting component for your next React apps.
 
+[![NPM](https://img.shields.io/npm/v/next-prism.svg)](https://www.npmjs.com/package/next-prism) ![npm bundle size](https://img.shields.io/bundlephobia/min/next-prism) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 ## 🎁 Features
 
 * Themes
@@ -146,6 +148,34 @@ export default function App() {
   </tr>
   <tr>
     <td>AWK - <code>awk</code>, <code>gawk</code></td>
+    <td>Bash - <code>bash</code>, <code>sh</code>, <code>shell</code></td>
+  </tr>
+  <tr>
+    <td>BASIC - <code>basic</code></td>
+    <td>Batch - <code>batch</code></td>
+  </tr>
+  <tr>
+    <td>BBcode - <code>bbcode</code>, <code>shortcode</code></td>
+    <td>BBj - <code>bbj</code></td>
+  </tr>
+  <tr>
+    <td>Bicep - <code>bicep</code></td>
+    <td>Birb - <code>birb</code></td>
+  </tr>
+  <tr>
+    <td>Bison - <code>bison</code></td>
+    <td>BNF - <code>bnf</code>, <code>rbnf</code></td>
+  </tr>
+  <tr>
+    <td>BQN - <code>bqn</code></td>
+    <td>Brainfuck - <code>brainfuck</code></td>
+  </tr>
+  <tr>
+    <td>BrightScript - <code>brightscript</code></td>
+    <td>Bro - <code>bro</code></td>
+  </tr>
+  <tr>
+    <td>BSL (1C:Enterprise) - <code>bsl</code>, <code>oscript</code></td>
     <td></td>
   </tr>
 <table>
@@ -179,7 +209,7 @@ How to contribute:
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center">profile
       <a href="https://github.com/Bunlong">
         <img src="https://avatars0.githubusercontent.com/u/1308397?s=400&u=945dc6b97571e2b98b659d34b1c81ae2514046bf&v=4" width="100" alt="Bunlong" />
         <br />
