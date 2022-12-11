@@ -478,6 +478,58 @@ export default function App() {
   </tr>
   <tr>
     <td>Oz - <code>oz</code></td>
+    <td>PARI/GP - <code>parigp</code></td>
+  </tr>
+  <tr>
+    <td>Parser - <code>parser</code></td>
+    <td>Pascal - <code>pascal</code>, <code>objectpascal</code></td>
+  </tr>
+  <tr>
+    <td>Pascaligo - <code>pascaligo</code></td>
+    <td>PATROL Scripting Language - <code>psl</code></td>
+  </tr>
+  <tr>
+    <td>PC-Axis - <code>pcaxis</code>, <code>px</code></td>
+    <td>PeopleCode - <code>peoplecode</code>, <code>pcode</code></td>
+  </tr>
+  <tr>
+    <td>Perl - <code>perl</code></td>
+    <td>PHP - <code>php</code></td>
+  </tr>
+  <tr>
+    <td>PHPDoc - <code>phpdoc</code></td>
+    <td>PHP Extras - <code>php-extras</code></td>
+  </tr>
+  <tr>
+    <td>PlantUML - <code>plant-uml</code>, <code>plantuml</code></td>
+    <td>PL/SQL - <code>plsql</code></td>
+  </tr>
+  <tr>
+    <td>PowerQuery - <code>powerquery</code>, <code>pq</code>, <code>mscript</code></td>
+    <td>PowerShell - <code>powershell</code></td>
+  </tr>
+  <tr>
+    <td>Processing - <code>processing</code></td>
+    <td>Prolog - <code>prolog</code></td>
+  </tr>
+  <tr>
+    <td>PromQL - <code>promql</code></td>
+    <td>.properties - <code>properties</code></td>
+  </tr>
+  <tr>
+    <td>Protocol Buffers - <code>protobuf</code></td>
+    <td>Pug - <code>pug</code></td>
+  </tr>
+  <tr>
+    <td>Puppet - <code>puppet</code></td>
+    <td>Pure - <code>pure</code></td>
+  </tr>
+  <tr>
+    <td>PureBasic - <code>purebasic</code>, <code>pbfasm</code></td>
+    <td>PureScript - <code>purescript</code>, <code>purs</code></td>
+  </tr>
+  <tr>
+    <td>Python - <code>python</code>, <code>py</code></td>
     <td></td>
   </tr>
 </table>
