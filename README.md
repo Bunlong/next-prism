@@ -416,6 +416,34 @@ export default function App() {
     <td>LOLCODE - <code>lolcode</code></td>
     <td>Lua - <code>lua</code></td>
   </tr>
+  <tr>
+    <td>Magma (CAS) - <code>magma</code></td>
+    <td>Makefile - <code>makefile</code></td>
+  </tr>
+  <tr>
+    <td>Markdown - <code>markdown</code>, <code>md</code></td>
+    <td>Markup templating - <code>markup-templating</code></td>
+  </tr>
+  <tr>
+    <td>Mata - <code>mata</code></td>
+    <td>MATLAB - <code>matlab</code></td>
+  </tr>
+  <tr>
+    <td>MAXScript - <code>maxscript</code></td>
+    <td>MEL - <code>mel</code></td>
+  </tr>
+  <tr>
+    <td>Mermaid - <code>mermaid</code></td>
+    <td>METAFONT - <code>metafont</code></td>
+  </tr>
+  <tr>
+    <td>Mizar - <code>mizar</code></td>
+    <td>MongoDB - <code>mongodb</code></td>
+  </tr>
+  <tr>
+    <td>Monkey - <code>monkey</code></td>
+    <td>MoonScript - <code>moonscript, moon</code></td>
+  </tr>
 </table>
 
 ## 📜 Changelog
