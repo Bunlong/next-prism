@@ -218,7 +218,27 @@ export default function App() {
     <td>CUE - <code>cue</code></td>
     <td>Cypher - <code>cypher</code></td>
   </tr>
-<table>
+  <tr>
+    <td>D - <code>d</code></td>
+    <td>Dart - <code>dart</code></td>
+  </tr>
+  <tr>
+    <td>DataWeave - <code>dataweave</code></td>
+    <td>DAX - <code>dax</code></td>
+  </tr>
+  <tr>
+    <td>Dhall - <code>dhall</code></td>
+    <td>Diff - <code>diff</code></td>
+  </tr>
+  <tr>
+    <td>Django/Jinja2 - <code>django</code>, <code>jinja2</code></td>
+    <td>DNS zone file - <code>dns-zone-file</code>, <code>dns-zone</code></td>
+  </tr>
+  <tr>
+    <td>Docker - <code>docker</code>, <code>dockerfile</code></td>
+    <td>DOT (Graphviz) - <code>dot</code>, <code>gv</code></td>
+  </tr>
+</table>
 
 ## 📜 Changelog
 
@@ -249,7 +269,7 @@ How to contribute:
 
 <table>
   <tr>
-    <td align="center">profile
+    <td align="center">
       <a href="https://github.com/Bunlong">
         <img src="https://avatars0.githubusercontent.com/u/1308397?s=400&u=945dc6b97571e2b98b659d34b1c81ae2514046bf&v=4" width="100" alt="Bunlong" />
         <br />
