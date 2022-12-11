@@ -272,6 +272,38 @@ export default function App() {
   </tr>
   <tr>
     <td>FreeMarker Template Language - <code>ftl</code></td>
+    <td>GameMaker Language - <code>gml</code>, <code>gamemakerlanguage</code></td>
+  </tr>
+  <tr>
+    <td>GAP (CAS) - <code>gap</code></td>
+    <td>G-code - <code>gcode</code></td>
+  </tr>
+  <tr>
+    <td>GDScript - <code>gdscript</code></td>
+    <td>GEDCOM - <code>gedcom</code></td>
+  </tr>
+  <tr>
+    <td>Gettext - <code>gettext</code>, <code>po</code></td>
+    <td>Gherkin - <code>gherkin</code></td>
+  </tr>
+  <tr>
+    <td>Git - <code>git</code></td>
+    <td>GLSL - <code>glsl</code></td>
+  </tr>
+  <tr>
+    <td>GN - <code>gn</code>, <code>gni</code></td>
+    <td>GNU Linker Script - <code>linker-script</code>, <code>ld</code></td>
+  </tr>
+  <tr>
+    <td>Go - <code>go</code></td>
+    <td>Go module - <code>go-module</code>, <code>go-mod</code></td>
+  </tr>
+  <tr>
+    <td>Gradle - <code>gradle</code></td>
+    <td>GraphQL - <code>graphql</code></td>
+  </tr>
+  <tr>
+    <td>Groovy - <code>groovy</code></td>
     <td></td>
   </tr>
 </table>
