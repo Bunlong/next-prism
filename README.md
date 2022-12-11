@@ -78,14 +78,24 @@ export default function App() {
 
 ## Themes
 
-  * coy
-  * dark
-  * funky
-  * okaidia
-  * prism
-  * solarizedlight
-  * tomorrow
-  * twilight
+<table>
+  <tr>
+    <td>coy</td>
+    <td>dark</td>
+  </tr>
+  <tr>
+    <td>funky</td>
+    <td>okaidia</td>
+  </tr>
+  <tr>
+    <td>prism</td>
+    <td>solarizedlight</td>
+  </tr>
+  <tr>
+    <td>tomorrow</td>
+    <td>twilight</td>
+  </tr>
+</table>
 
 ## Languages
 
