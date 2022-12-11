@@ -466,6 +466,18 @@ export default function App() {
   </tr>
   <tr>
     <td>NSIS - <code>nsis</code></td>
+    <td>Objective-C - <code>objectivec</code>, <code>objc</code></td>
+  </tr>
+  <tr>
+    <td>OCaml - <code>ocaml</code></td>
+    <td>Odin - <code>odin</code></td>
+  </tr>
+  <tr>
+    <td>OpenCL - <code>opencl</code></td>
+    <td>OpenQasm - <code>openqasm</code>, <code>qasm</code></td>
+  </tr>
+  <tr>
+    <td>Oz - <code>oz</code></td>
     <td></td>
   </tr>
 </table>
