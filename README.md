@@ -444,6 +444,30 @@ export default function App() {
     <td>Monkey - <code>monkey</code></td>
     <td>MoonScript - <code>moonscript, moon</code></td>
   </tr>
+  <tr>
+    <td>N1QL - <code>n1ql</code></td>
+    <td>N4JS - <code>n4js</code>, <code>n4jsd</code></td>
+  </tr>
+  <tr>
+    <td>Nand To Tetris HDL - <code>nand2tetris-hdl</code></td>
+    <td>Naninovel Script - <code>naniscript</code>, <code>nani</code></td>
+  </tr>
+  <tr>
+    <td>NASM - <code>nasm</code></td>
+    <td>NEON - <code>neon</code></td>
+  </tr>
+  <tr>
+    <td>Nevod - <code>nevod</code></td>
+    <td>nginx - <code>nginx</code></td>
+  </tr>
+  <tr>
+    <td>Nim - <code>nim</code></td>
+    <td>Nix - <code>nix</code></td>
+  </tr>
+  <tr>
+    <td>NSIS - <code>nsis</code></td>
+    <td></td>
+  </tr>
 </table>
 
 ## 📜 Changelog
