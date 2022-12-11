@@ -238,6 +238,26 @@ export default function App() {
     <td>Docker - <code>docker</code>, <code>dockerfile</code></td>
     <td>DOT (Graphviz) - <code>dot</code>, <code>gv</code></td>
   </tr>
+  <tr>
+    <td>EBNF - <code>ebnf</code></td>
+    <td>EditorConfig - <code>editorconfig</code></td>
+  </tr>
+  <tr>
+    <td>Eiffel - <code>eiffel</code></td>
+    <td>EJS - <code>ejs</code>, <code>eta</code></td>
+  </tr>
+  <tr>
+    <td>Elixir - <code>elixir</code></td>
+    <td>Elm - <code>elm</code></td>
+  </tr>
+  <tr>
+    <td>Embedded Lua templating - <code>etlua</code></td>
+    <td>ERB - <code>erb</code></td>
+  </tr>
+  <tr>
+    <td>Erlang - <code>erlang</code></td>
+    <td>Excel Formula - <code>excel-formula</code>, <code>xlsx</code>, <code>xls</code></td>
+  </tr>
 </table>
 
 ## 📜 Changelog
