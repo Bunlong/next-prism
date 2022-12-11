@@ -304,6 +304,26 @@ export default function App() {
   </tr>
   <tr>
     <td>Groovy - <code>groovy</code></td>
+    <td>Haml - <code>haml</code></td>
+  </tr>
+  <tr>
+    <td>Handlebars - <code>handlebars</code>, <code>hbs</code>, <code>mustache</code></td>
+    <td>Haskell - <code>haskell</code>, <code>hs</code></td>
+  </tr>
+  <tr>
+    <td>Haxe - <code>haxe</code></td>
+    <td>HCL - <code>hcl</code></td>
+  </tr>
+  <tr>
+    <td>HLSL - <code>hlsl</code></td>
+    <td>Hoon - <code>hoon</code></td>
+  </tr>
+  <tr>
+    <td>HTTP - <code>http</code></td>
+    <td>HTTP Public-Key-Pins - <code>hpkp</code></td>
+  </tr>
+  <tr>
+    <td>HTTP Strict-Transport-Security - <code>hsts</code></td>
     <td></td>
   </tr>
 </table>
