@@ -258,6 +258,22 @@ export default function App() {
     <td>Erlang - <code>erlang</code></td>
     <td>Excel Formula - <code>excel-formula</code>, <code>xlsx</code>, <code>xls</code></td>
   </tr>
+  <tr>
+    <td>F# - <code>fsharp</code></td>
+    <td>Factor - <code>factor</code></td>
+  </tr>
+  <tr>
+    <td>False - <code>false</code></td>
+    <td>Firestore security rules - <code>firestore-security-rules</code></td>
+  </tr>
+  <tr>
+    <td>Flow - <code>flow</code></td>
+    <td>Fortran - <code>fortran</code></td>
+  </tr>
+  <tr>
+    <td>FreeMarker Template Language - <code>ftl</code></td>
+    <td></td>
+  </tr>
 </table>
 
 ## 📜 Changelog
