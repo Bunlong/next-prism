@@ -384,6 +384,18 @@ export default function App() {
     <td>Julia - <code>julia</code></td>
     <td></td>
   </tr>
+  <tr>
+    <td>Keepalived Configure - <code>keepalived</code></td>
+    <td>Keyman - <code>keyman</code></td>
+  </tr>
+  <tr>
+    <td>Kotlin - <code>kotlin</code>, <code>kt</code>, <code>kts</code></td>
+    <td>KuMir (КуМир) - <code>kumir</code>, <code>kum</code></td>
+  </tr>
+  <tr>
+    <td>Kusto - <code>kusto</code></td>
+    <td></td>
+  </tr>
 </table>
 
 ## 📜 Changelog
