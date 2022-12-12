@@ -652,6 +652,22 @@ export default function App() {
     <td>UO Razor Script - <code>uorazor</code></td>
     <td>URI - <code>uri</code>, <code>url</code></td>
   </tr>
+  <tr>
+    <td>V - <code>v</code></td>
+    <td>Vala - <code>vala</code></td>
+  </tr>
+  <tr>
+    <td>VB.Net - <code>vbnet</code></td>
+    <td>Velocity - <code>velocity</code></td>
+  </tr>
+  <tr>
+    <td>Verilog - <code>verilog</code></td>
+    <td>VHDL - <code>vhdl</code></td>
+  </tr>
+  <tr>
+    <td>vim - <code>vim</code></td>
+    <td>Visual Basic - <code>visual-basic</code>, <code>vb</code>, <code>vba</code></td>
+  </tr>
 </table>
 
 ## 📜 Changelog
