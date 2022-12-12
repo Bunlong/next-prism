@@ -668,6 +668,22 @@ export default function App() {
     <td>vim - <code>vim</code></td>
     <td>Visual Basic - <code>visual-basic</code>, <code>vb</code>, <code>vba</code></td>
   </tr>
+  <tr>
+    <td>WarpScript - <code>warpscript</code></td>
+    <td>WebAssembly - <code>wasm</code></td>
+  </tr>
+  <tr>
+    <td>Web IDL - <code>web-idl</code>, <code>webidl</code></td>
+    <td>WGSL - <code>wgsl</code></td>
+  </tr>
+  <tr>
+    <td>Wiki markup - <code>wiki</code></td>
+    <td>Wolfram language - <code>wolfram</code>, <code>mathematica</code>, <code>nb</code>, <code>wl</code></td>
+  </tr>
+  <tr>
+    <td>Wren - <code>wren</code></td>
+    <td></td>
+  </tr>
 </table>
 
 ## 📜 Changelog
