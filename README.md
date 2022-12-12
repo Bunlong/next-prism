@@ -690,7 +690,11 @@ export default function App() {
   </tr>
   <tr>
     <td>XQuery - <code>xquery</code></td>
-    <td></td>
+    <td>YAML - <code>yaml</code>, <code>yml</code></td>
+  </tr>
+  <tr>
+    <td>YANG - <code>yang</code></td>
+    <td>Zig - <code>zig</code></td>
   </tr>
 </table>
 
