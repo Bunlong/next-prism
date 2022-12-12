@@ -620,6 +620,34 @@ export default function App() {
     <td>Swift - <code>swift</code></td>
     <td>Systemd configuration file - <code>systemd</code></td>
   </tr>
+  <tr>
+    <td>T4 templating - <code>t4-templating</code></td>
+    <td>T4 Text Templates (C#) - <code>t4-cs</code>, <code>t4</code></td>
+  </tr>
+  <tr>
+    <td>T4 Text Templates (VB) - <code>t4-vb</code></td>
+    <td>TAP - <code>tap</code></td>
+  </tr>
+  <tr>
+    <td>Tcl - <code>tcl</code></td>
+    <td>Template Toolkit 2 - <code>tt2</code></td>
+  </tr>
+  <tr>
+    <td>Textile - <code>textile</code></td>
+    <td>TOML - <code>toml</code></td>
+  </tr>
+  <tr>
+    <td>Tremor - <code>tremor</code>, <code>trickle</code>, <code>troy</code></td>
+    <td>Turtle - <code>turtle</code>, <code>trig</code></td>
+  </tr>
+  <tr>
+    <td>Twig - <code>twig</code></td>
+    <td>Twig - <code>twig</code></td>
+  </tr>
+  <tr>
+    <td>ypoScript - <code>typoscript</code>, <code>tsconfig</code></td>
+    <td></td>
+  </tr>
 </table>
 
 ## 📜 Changelog
