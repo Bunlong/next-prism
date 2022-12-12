@@ -620,6 +620,82 @@ export default function App() {
     <td>Swift - <code>swift</code></td>
     <td>Systemd configuration file - <code>systemd</code></td>
   </tr>
+  <tr>
+    <td>T4 templating - <code>t4-templating</code></td>
+    <td>T4 Text Templates (C#) - <code>t4-cs</code>, <code>t4</code></td>
+  </tr>
+  <tr>
+    <td>T4 Text Templates (VB) - <code>t4-vb</code></td>
+    <td>TAP - <code>tap</code></td>
+  </tr>
+  <tr>
+    <td>Tcl - <code>tcl</code></td>
+    <td>Template Toolkit 2 - <code>tt2</code></td>
+  </tr>
+  <tr>
+    <td>Textile - <code>textile</code></td>
+    <td>TOML - <code>toml</code></td>
+  </tr>
+  <tr>
+    <td>Tremor - <code>tremor</code>, <code>trickle</code>, <code>troy</code></td>
+    <td>Turtle - <code>turtle</code>, <code>trig</code></td>
+  </tr>
+  <tr>
+    <td>Twig - <code>twig</code></td>
+    <td>Twig - <code>twig</code></td>
+  </tr>
+  <tr>
+    <td>TypoScript - <code>typoscript</code>, <code>tsconfig</code></td>
+    <td>UnrealScript - <code>unrealscript</code>, <code>uscript</code>, <code>uc</code></td>
+  </tr>
+  <tr>
+    <td>UO Razor Script - <code>uorazor</code></td>
+    <td>URI - <code>uri</code>, <code>url</code></td>
+  </tr>
+  <tr>
+    <td>V - <code>v</code></td>
+    <td>Vala - <code>vala</code></td>
+  </tr>
+  <tr>
+    <td>VB.Net - <code>vbnet</code></td>
+    <td>Velocity - <code>velocity</code></td>
+  </tr>
+  <tr>
+    <td>Verilog - <code>verilog</code></td>
+    <td>VHDL - <code>vhdl</code></td>
+  </tr>
+  <tr>
+    <td>vim - <code>vim</code></td>
+    <td>Visual Basic - <code>visual-basic</code>, <code>vb</code>, <code>vba</code></td>
+  </tr>
+  <tr>
+    <td>WarpScript - <code>warpscript</code></td>
+    <td>WebAssembly - <code>wasm</code></td>
+  </tr>
+  <tr>
+    <td>Web IDL - <code>web-idl</code>, <code>webidl</code></td>
+    <td>WGSL - <code>wgsl</code></td>
+  </tr>
+  <tr>
+    <td>Wiki markup - <code>wiki</code></td>
+    <td>Wolfram language - <code>wolfram</code>, <code>mathematica</code>, <code>nb</code>, <code>wl</code></td>
+  </tr>
+  <tr>
+    <td>Wren - <code>wren</code></td>
+    <td>Xeora - <code>xeora</code>, <code>xeoracube</code></td>
+  </tr>
+  <tr>
+    <td>XML doc (.net) - <code>xml-doc</code></td>
+    <td>Xojo (REALbasic) - <code>xojo</code></td>
+  </tr>
+  <tr>
+    <td>XQuery - <code>xquery</code></td>
+    <td>YAML - <code>yaml</code>, <code>yml</code></td>
+  </tr>
+  <tr>
+    <td>YANG - <code>yang</code></td>
+    <td>Zig - <code>zig</code></td>
+  </tr>
 </table>
 
 ## 📜 Changelog
