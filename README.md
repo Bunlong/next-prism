@@ -293,7 +293,7 @@ export default function App() {
     <td>GEDCOM - <code>gedcom</code></td>
   </tr>
   <tr>
-    <td>Gettext - <code>gettext</code>, <code>po</code></td>
+    <td>gettext - <code>gettext</code>, <code>po</code></td>
     <td>Gherkin - <code>gherkin</code></td>
   </tr>
   <tr>
