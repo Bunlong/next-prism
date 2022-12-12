@@ -682,6 +682,14 @@ export default function App() {
   </tr>
   <tr>
     <td>Wren - <code>wren</code></td>
+    <td>Xeora - <code>xeora</code>, <code>xeoracube</code></td>
+  </tr>
+  <tr>
+    <td>XML doc (.net) - <code>xml-doc</code></td>
+    <td>Xojo (REALbasic) - <code>xojo</code></td>
+  </tr>
+  <tr>
+    <td>XQuery - <code>xquery</code></td>
     <td></td>
   </tr>
 </table>
