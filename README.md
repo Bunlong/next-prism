@@ -645,8 +645,12 @@ export default function App() {
     <td>Twig - <code>twig</code></td>
   </tr>
   <tr>
-    <td>ypoScript - <code>typoscript</code>, <code>tsconfig</code></td>
-    <td></td>
+    <td>TypoScript - <code>typoscript</code>, <code>tsconfig</code></td>
+    <td>UnrealScript - <code>unrealscript</code>, <code>uscript</code>, <code>uc</code></td>
+  </tr>
+  <tr>
+    <td>UO Razor Script - <code>uorazor</code></td>
+    <td>URI - <code>uri</code>, <code>url</code></td>
   </tr>
 </table>
 
