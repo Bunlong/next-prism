@@ -8,6 +8,7 @@ A lightweight, robust, and elegant syntax highlighting component for your next R
 
 * Themes
 * Languages
+* Plugins
 
 ## 🔧 Install
 
@@ -698,11 +699,43 @@ export default function App() {
   </tr>
 </table>
 
+## Plugins
+
+### Line Numbers
+
+Line number at the beginning of code lines.
+
+```javascript
+import { usePrism } from 'next-prism'
+
+// Import a theme.css
+import 'next-prism/themes/twilight.css'
+
+// Import line-numbers source
+import 'next-prism/plugins/line-numbers/line-numbers';
+// Import line-numbers.css
+import 'next-prism/plugins/line-numbers/line-numbers.css';
+
+export default function App() {
+  const { Code } = usePrism()
+
+  return (
+    <>
+      <Code language='javascript' lineNumbers={true}>
+      {`<div className="example">
+  {Math.random()}
+</div>`}
+      </Code>
+    </>
+  )
+}
+```
+
 ## 📜 Changelog
 
-Latest version 0.1.0 (2022-12-09):
+Latest version 0.2.0 (2022-12-14):
 
-  * Add themes and languages
+  * Add line-numbers plugins
 
 Details changes for each release are documented in the [CHANGELOG.md](https://github.com/Bunlong/next-prism/blob/master/CHANGELOG.md).
 
