@@ -1,3 +1,13 @@
+## 0.3.0 (2022-12-14)
+
+### ✨ Features
+
+  * Add highlightAll() function
+
+Credits
+
+* [@Bunlong](https://github.com/Bunlong)
+
 ## 0.2.0 (2022-12-14)
 
 ### ✨ Features

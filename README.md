@@ -733,9 +733,9 @@ export default function App() {
 
 ## 📜 Changelog
 
-Latest version 0.2.0 (2022-12-14):
+Latest version 0.3.0 (2022-12-14):
 
-  * Add line-numbers plugins
+  * Add highlightAll() function
 
 Details changes for each release are documented in the [CHANGELOG.md](https://github.com/Bunlong/next-prism/blob/master/CHANGELOG.md).
 
