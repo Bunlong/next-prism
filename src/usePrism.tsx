@@ -19,8 +19,6 @@ function useCodeComponent() {
       Prism.highlightAll();
     }, []);
 
-    console.log(lineNumbers);
-
     return (
       <pre>
         <code
@@ -40,7 +38,12 @@ function useCodeComponent() {
 export function usePrism() {
   const Code = useCodeComponent();
 
+  const highlightAll = () => {
+    Prism.highlightAll();
+  };
+
   return {
     Code,
+    highlightAll,
   };
 }
