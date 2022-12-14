@@ -30,7 +30,7 @@ yarn add next-prism
 import { usePrism } from 'next-prism'
 
 // Import a theme.css
-import 'next-prism/themes/twilight.css'
+import 'next-prism/themes/tomorrow.css'
 
 export default function App() {
   const { Code } = usePrism()
@@ -709,7 +709,7 @@ Line number at the beginning of code lines.
 import { usePrism } from 'next-prism'
 
 // Import a theme.css
-import 'next-prism/themes/twilight.css'
+import 'next-prism/themes/tomorrow.css'
 
 // Import line-numbers source
 import 'next-prism/plugins/line-numbers/line-numbers';
