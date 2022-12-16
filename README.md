@@ -9,6 +9,7 @@ A lightweight, robust, and elegant syntax highlighting component for your next R
 * Themes
 * Languages
 * Plugins
+  * Line Numbers
 
 ## 🔧 Install
 
