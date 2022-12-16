@@ -1,19 +1,24 @@
+import { useState, useEffect } from 'react';
 import { usePrism } from 'next-prism';
 
 import 'next-prism/themes/tomorrow.css';
 
-import 'next-prism/plugins/line-numbers/line-numbers';
-import 'next-prism/plugins/line-numbers/line-numbers.css';
-
 function App() {
-  const { Code } = usePrism();
+  const [count, setCount] = useState(0);
+  const { Code, highlightAll } = usePrism();
+
+  useEffect(() => {
+    highlightAll();
+  }, [count]);
 
   return (
     <>
-      <Code language='javascript' lineNumbers={true}>
-      {`<div className="example">
-  {Math.random()}
-</div>`}
+      <button onClick={() => setCount(count + 1)}>
+        Click me
+      </button>
+      <p>You clicked {count} times</p>
+      <Code language='javascript'>
+        {`<p>You clicked ${count} times<p>`}
       </Code>
     </>
   );

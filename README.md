@@ -26,6 +26,8 @@ yarn add next-prism
 
 ## 💡 Usage
 
+### 🎀 Code
+
 ```javascript
 import { usePrism } from 'next-prism'
 
@@ -47,7 +49,62 @@ export default function App() {
 }
 ```
 
-## Props
+### 🎀 highlightAll
+
+```javascript
+import { useState, useEffect } from 'react'
+import { usePrism } from 'next-prism'
+
+// Import a theme.css
+import 'next-prism/themes/tomorrow.css'
+
+function App() {
+  const [count, setCount] = useState(0)
+  const { Code, highlightAll } = usePrism()
+
+  useEffect(() => {
+    highlightAll()
+  }, [count])
+
+  return (
+    <>
+      <button onClick={() => setCount(count + 1)}>
+        Click me
+      </button>
+      <p>You clicked {count} times</p>
+      <Code language='javascript'>
+        {`<p>You clicked ${count} times<p>`}
+      </Code>
+    </>
+  )
+}
+```
+
+## usePrism Return Object
+
+<table>
+  <thead>
+    <tr>
+      <th>Prop</th>
+      <th>Type</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Code</td>
+      <td>ReactNode</td>
+      <td>Code component.</td>
+    </tr>
+    <tr>
+      <td>highlightAll</td>
+      <td>function</td>
+      <td>Use to highlight all code elements.</td>
+    </tr>
+  </tbody>
+</table>
+
+## Code Props
 
 <table>
   <thead>
