@@ -769,9 +769,9 @@ import { usePrism } from 'next-prism'
 import 'next-prism/themes/tomorrow.css'
 
 // Import line-numbers source
-import 'next-prism/plugins/line-numbers/line-numbers';
+import 'next-prism/plugins/line-numbers/line-numbers'
 // Import line-numbers.css
-import 'next-prism/plugins/line-numbers/line-numbers.css';
+import 'next-prism/plugins/line-numbers/line-numbers.css'
 
 export default function App() {
   const { Code } = usePrism()
@@ -799,16 +799,16 @@ import { usePrism } from 'next-prism'
 import 'next-prism/themes/tomorrow.css'
 
 // Import show-invisibles source
-import 'next-prism/plugins/show-invisibles/show-invisibles';
+import 'next-prism/plugins/show-invisibles/show-invisibles'
 // Import show-invisibles.css
-import 'next-prism/plugins/show-invisibles/show-invisibles.css';
+import 'next-prism/plugins/show-invisibles/show-invisibles.css'
 
 export default function App() {
   const { Code } = usePrism()
 
   return (
     <>
-      <Code language='javascript' lineNumbers={true}>
+      <Code language='javascript'>
       {`<div className="example">
   {Math.random()}
 </div>`}
