@@ -1,29 +1,19 @@
-import { useState, useEffect } from 'react';
 import { usePrism } from 'next-prism';
 
 import 'next-prism/themes/tomorrow.css';
 
-import 'next-prism/plugins/show-invisibles/show-invisibles.css';
-import 'next-prism/plugins/show-invisibles/show-invisibles';
+import 'next-prism/plugins/autolinker/autolinker';
+import 'next-prism/plugins/autolinker/autolinker.css';
 
 function App() {
-  const [count, setCount] = useState(0);
-  const { Code, highlightAll } = usePrism();
-
-  useEffect(() => {
-    highlightAll();
-  }, [count]);
+  const { Code } = usePrism();
 
   return (
-    <>
-      <button onClick={() => setCount(count + 1)}>
-        Click me
-      </button>
-      <p>You clicked {count} times</p>
-      <Code language='javascript'>
-        {`<p>You clicked ${count} times<p>`}
-      </Code>
-    </>
+    <Code language="javascript">
+      {`<div className="example">
+  <a href="https://github.com/Bunlong/next-prism">next-prism</a>
+</div>`}
+    </Code>
   );
 }
 

@@ -38,13 +38,11 @@ export default function App() {
   const { Code } = usePrism()
 
   return (
-    <>
-      <Code language='javascript'>
+    <Code language='javascript'>
       {`<div className="example">
   {Math.random()}
 </div>`}
-      </Code>
-    </>
+    </Code>
   )
 }
 ```
@@ -68,13 +66,9 @@ function App() {
 
   return (
     <>
-      <button onClick={() => setCount(count + 1)}>
-        Click me
-      </button>
+      <button onClick={() => setCount(count + 1)}>Click me</button>
       <p>You clicked {count} times</p>
-      <Code language='javascript'>
-        {`<p>You clicked ${count} times<p>`}
-      </Code>
+      <Code language='javascript'>{`<p>You clicked ${count} times<p>`}</Code>
     </>
   )
 }
@@ -777,13 +771,11 @@ export default function App() {
   const { Code } = usePrism()
 
   return (
-    <>
-      <Code language='javascript' lineNumbers={true}>
+    <Code language='javascript' lineNumbers={true}>
       {`<div className="example">
   {Math.random()}
 </div>`}
-      </Code>
-    </>
+    </Code>
   )
 }
 ```
@@ -807,22 +799,48 @@ export default function App() {
   const { Code } = usePrism()
 
   return (
-    <>
-      <Code language='javascript'>
+    <Code language='javascript'>
       {`<div className="example">
-  {Math.random()}
+{Math.random()}
 </div>`}
-      </Code>
-    </>
+    </Code>
   )
+}
+```
+
+### Autolinker
+
+Converts URLs and emails in code to clickable links. Parses Markdown links in comments.
+
+```javascript
+import { usePrism } from 'next-prism'
+
+// Import a theme.css
+import 'next-prism/themes/tomorrow.css'
+
+// Import autolinker source
+import 'next-prism/plugins/autolinker/autolinker'
+// Import autolinker.css
+import 'next-prism/plugins/autolinker/autolinker.css'
+
+function App() {
+  const { Code } = usePrism()
+
+  return (
+    <Code language="javascript">
+      {`<div className="example">
+  <a href="https://github.com/Bunlong/next-prism">next-prism</a>
+</div>`}
+    </Code>
+  );
 }
 ```
 
 ## 📜 Changelog
 
-Latest version 0.4.0 (2022-12-17):
+Latest version 0.4.0 (2022-12-18):
 
-  * Add show-invisibles plugins
+  * Add autolinker plugins
 
 Details changes for each release are documented in the [CHANGELOG.md](https://github.com/Bunlong/next-prism/blob/master/CHANGELOG.md).
 
