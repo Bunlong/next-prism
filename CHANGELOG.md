@@ -1,3 +1,13 @@
+## 0.4.0 (2022-12-17)
+
+### ✨ Features
+
+  * Add show-invisibles plugins
+
+Credits
+
+* [@Bunlong](https://github.com/Bunlong)
+
 ## 0.3.0 (2022-12-14)
 
 ### ✨ Features
