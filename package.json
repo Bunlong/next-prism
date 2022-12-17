@@ -1,6 +1,6 @@
 {
   "name": "next-prism",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "description": "A lightweight, robust, and elegant syntax highlighting component for your next React apps.",
   "author": "Bunlong <bunlong.van@gmail.com>",
   "license": "MIT",

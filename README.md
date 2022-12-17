@@ -788,11 +788,41 @@ export default function App() {
 }
 ```
 
+### Show Invisibles
+
+Show hidden characters such as tabs and line breaks.
+
+```javascript
+import { usePrism } from 'next-prism'
+
+// Import a theme.css
+import 'next-prism/themes/tomorrow.css'
+
+// Import show-invisibles source
+import 'next-prism/plugins/show-invisibles/show-invisibles';
+// Import show-invisibles.css
+import 'next-prism/plugins/show-invisibles/show-invisibles.css';
+
+export default function App() {
+  const { Code } = usePrism()
+
+  return (
+    <>
+      <Code language='javascript' lineNumbers={true}>
+      {`<div className="example">
+  {Math.random()}
+</div>`}
+      </Code>
+    </>
+  )
+}
+```
+
 ## 📜 Changelog
 
-Latest version 0.3.0 (2022-12-14):
+Latest version 0.4.0 (2022-12-17):
 
-  * Add highlightAll() function
+  * Add show-invisibles plugins
 
 Details changes for each release are documented in the [CHANGELOG.md](https://github.com/Bunlong/next-prism/blob/master/CHANGELOG.md).
 

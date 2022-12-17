@@ -3,6 +3,9 @@ import { usePrism } from 'next-prism';
 
 import 'next-prism/themes/tomorrow.css';
 
+import 'next-prism/plugins/show-invisibles/show-invisibles.css';
+import 'next-prism/plugins/show-invisibles/show-invisibles';
+
 function App() {
   const [count, setCount] = useState(0);
   const { Code, highlightAll } = usePrism();
