@@ -1,3 +1,13 @@
+## 0.5.0 (2022-12-18)
+
+### ✨ Features
+
+  * Add autolinker plugins
+
+Credits
+
+* [@Bunlong](https://github.com/Bunlong)
+
 ## 0.4.0 (2022-12-17)
 
 ### ✨ Features
