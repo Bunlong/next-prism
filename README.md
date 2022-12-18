@@ -838,7 +838,7 @@ function App() {
 
 ## 📜 Changelog
 
-Latest version 0.4.0 (2022-12-18):
+Latest version 0.5.0 (2022-12-18):
 
   * Add autolinker plugins
 
