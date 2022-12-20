@@ -836,6 +836,10 @@ function App() {
 }
 ```
 
+## File Highlight
+
+Fetch external files and highlight them with Prism.
+
 ## 📜 Changelog
 
 Latest version 0.5.0 (2022-12-18):
